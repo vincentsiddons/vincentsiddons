@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-vsiddons@iu.edu| (317) 362-5586 | https://www.linkedin.com/in/vincent-siddons-532910200/ |
-https://github.com/vincentsiddons
+https://www.linkedin.com/in/vincent-siddons-532910200/
 
 ## Education
 
