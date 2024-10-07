@@ -19,7 +19,7 @@ August 2023 - May 2027
 NumPy, Torch, Matplotlib, Pandas, NLTK, Scikit-learn
 # Languages 
 
-Python, Java, C++, R
+Python, Java, C++, R, XML, HTML, CSS
 
 ## Research Experience
 # Computer Science Research Internship (UROP)
